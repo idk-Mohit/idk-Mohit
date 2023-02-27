@@ -1,4 +1,9 @@
-<h1>Hi 👋 , My name is Mohit.</h1><br>💫 I’m a Full Stack Web Developer specializing in building fast and attractive digital experiences. Currently, I’m focused on building Personal and freelance projects.<br>🎓 BCA 2021 (SRM University )<br>🤝 Open for job opportunities.<br>👀 - Anime watcher.<br>
+<h1>Hi 👋 , My name is Mohit.</h1><br>
+💫 I’m a Full Stack Web Developer specializing in building fast and attractive digital experiences.
+<br />🤝 Currently, Working as a Frontend Developer @<a href="https://www.exalens.com/" target="_blank">Exalens.</a>
+<br>🎓 BCA 2021 (SRM University )<br>
+<!-- 🤝 Open for job opportunities. -->
+👀 - Anime watcher.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/9mohit2000)
