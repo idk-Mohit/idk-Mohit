@@ -1,6 +1,5 @@
 <h1>Hi 👋 , My name is Mohit.</h1><br>
 💫 I’m a Full Stack Web Developer specializing in building fast and attractive digital experiences.
-<br />🤝 Currently, Working as a Frontend Developer @<a href="https://www.exalens.com/" target="_blank">Exalens.</a>
 <br>🎓 BCA 2021 (SRM University )<br>
 <!-- 🤝 Open for job opportunities. -->
 👀 - Anime watcher.<br>
